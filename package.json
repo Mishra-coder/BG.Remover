@@ -1,0 +1,11 @@
+{
+  "name": "bg-remover",
+  "version": "1.0.0",
+  "description": "AI-powered background remover with Clerk authentication",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "preview": "cd client && npm run preview",
+    "install": "cd client && npm install"
+  }
+}
